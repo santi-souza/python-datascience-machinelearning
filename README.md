@@ -1,10 +1,10 @@
-# The Complete SQL Bootcamp: Go from Zero to Hero
+# Python for Data Science and Machine Learning Bootcamp
 
 **Instructor:** Jose Marcial Portilla
 **Platform:** Udemy
 **Duration:** 25 hours, 165 videos
 **Level:** Beginner to Intermediate
-**Topics:** SQL, Data Analysis, Machine Learning, Python, Big Data, Spark
+**Topics:** Python (numpy, pandas, matplotlib, seaborn, scikit-learn), SQL, Data Analysis, Machine Learning, Big Data, Spark
 
 ## Overview
 This intensive bootcamp provides a comprehensive grounding in SQL, data visualization, data analysis, machine learning, and big data tools like Spark. It progresses from introductory Python and data manipulation with libraries like NumPy and Pandas to advanced machine learning and big data applications. The course is designed to build foundational skills, solve real-world data problems, and develop hands-on experience with popular data science tools.
